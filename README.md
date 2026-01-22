@@ -13,11 +13,11 @@ This script displays:
 🚀 Usage
 
 1. Clone or download the script
-Shell: git clone <your-repo-url>cd <repo-folder>Show more lines
+
 2. Make the script executable
-Shell: chmod +x alsinfodump.shShow more lines
+Shell: chmod +x alsinfodump.sh
 3. Run the script
-Shell: ./alsinfodump.shShow more lines
+Shell: ./alsinfodump.sh
 
 🛠 Requirements
 
