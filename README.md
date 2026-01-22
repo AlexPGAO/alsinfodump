@@ -28,8 +28,11 @@ No external dependencies — uses built‑in system utilities only
 📦 Example Output
 
 Hello there <username>, hope everything is good
+
 The time is 15:31:59, the date is Monday Jan 12 2026
+
 You're currently located in /home/user/Desktop
+
 Current IP: 192.168.0.42
 
 
